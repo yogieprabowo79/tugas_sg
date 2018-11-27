@@ -1,5 +1,5 @@
-clear all
-clear clc
+clear all;
+clear clc;
 
 disp('a>b');
 a(:,:)=input ('array a=');
